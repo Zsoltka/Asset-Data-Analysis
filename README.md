@@ -31,3 +31,10 @@ This project aims to uncover insights from the financial markets by exploring va
 
 ## Data analysis
 
+**1. Trend over time:** Analyzing all four markets we can observe that we have a uptrend. Due to the fact that the crypto space is a new market, the market capital is smaller so the trendlines are more abrupted. If we analyze the trends in smaller time frames, we can see that generally these markets are moving in the same direction. In time of market growth the market are growing, in recession all markets are taking hits.
+Crypto enthusiasts are saying that in recession BTC will behave like a save haven and despite of other markets fallings, BTC will grow. From 2020 until today we saw that this is not thru (for now). All markets have been taking hits because investors are turning to more secure investments.
+
+![image](https://github.com/Zsoltka/Asset-Data-Analysis/assets/133663142/32e503dd-adc8-4249-936d-1af67fcc8939)
+
+Examining this chart, we gain valuable insights into market cycles and how markets have behaved over the last two decades. It allows us to pinpoint significant events such as financial crises, shifts in interest rates, the onset of pandemics and wars, as well as the emergence of new market booms that coincide with periods of growth.
+This topic is extensive and could be explored further, but one thig is sure and that is that all markets are growing, they have an uptrend if we are analyzing a bigger timeframe.
