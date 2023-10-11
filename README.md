@@ -37,4 +37,5 @@ Crypto enthusiasts are saying that in recession BTC will behave like a save have
 ![image](https://github.com/Zsoltka/Asset-Data-Analysis/assets/133663142/32e503dd-adc8-4249-936d-1af67fcc8939)
 
 Examining this chart, we gain valuable insights into market cycles and how markets have behaved over the last two decades. It allows us to pinpoint significant events such as financial crises, shifts in interest rates, the onset of pandemics and wars, as well as the emergence of new market booms that coincide with periods of growth.
+
 This topic is extensive and could be explored further, but one thig is sure and that is that all markets are growing, they have an uptrend if we are analyzing a bigger timeframe.
